@@ -1,0 +1,10 @@
+<html>
+<body>
+
+<h2>HTML Images</h2>
+<p>#1 in the art and #1 in your heart</p>
+
+<img src="bysalleforsale.webp" alt="W3Schools.com" width="104" height="142">
+
+</body>
+</html>
