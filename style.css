@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Mallow';
+    src: url(fonts/Mallow.otf);
+}
+
+h2 {
+    font-family: 'Mallow', 'Bradley Hand', cursive;
+}
+
+p {
+    font-family: 'Mallow', 'Bradley Hand', cursive;
+}
