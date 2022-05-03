@@ -33,6 +33,10 @@ body {
     
 }
 
+.pictures: hover {
+    opacity: 60%;
+}
+
 .footer {
     position: absolute;
     text-align: center;
