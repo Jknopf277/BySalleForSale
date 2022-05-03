@@ -3,7 +3,7 @@
     src: url(fonts/Mallow.otf);
 }
 
-h1 {
+h2 {
     font-family: Mallow, "Bradley Hand", cursive;
     font-size: 74px;
     font-weight: 200;
@@ -13,9 +13,6 @@ h1 {
 
 p {
     font-family: Mallow, "Bradley Hand", cursive;
-    font-size: 28px;
-    text-align: center;
-    color: #080302;
 }
 
 body {
@@ -26,21 +23,23 @@ body {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
 }
 
 .pictures {
     
 }
 
-.pictures: hover {
+#buyable: hover {
     opacity: 60%;
 }
 
 .footer {
+    font-family: "Bradley Hand", cursive;
+    font-size: 22px
     position: absolute;
-    text-align: center;
     padding-bottom: 10px;
     padding-top: 10px;
-    
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
 }
