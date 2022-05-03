@@ -3,7 +3,7 @@
     src: url(fonts/Mallow.otf);
 }
 
-h2 {
+h1 {
     font-family: Mallow, "Bradley Hand", cursive;
     font-size: 74px;
     font-weight: 200;
@@ -13,7 +13,9 @@ h2 {
 
 p {
     font-family: Mallow, "Bradley Hand", cursive;
-    font-size: 32px;
+    font-size: 28px;
+    text-align: center;
+    color: #080302;
 }
 
 body {
