@@ -18,3 +18,9 @@ p {
 body {
     background-color: #f6c7b1;
 }
+
+.top {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
