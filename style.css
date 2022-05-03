@@ -5,7 +5,9 @@
 
 h2 {
     font-family: Mallow, "Bradley Hand", cursive;
-    font-style: italic;
+    font-size: 24px;
+    font-weight: 200;
+    text-align: center;
 }
 
 p {
