@@ -20,6 +20,7 @@ p {
 
 body {
     background-color: #f6c7b1;
+    background: url("images/texture.png");
 }
 
 .top {
