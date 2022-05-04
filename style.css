@@ -36,6 +36,10 @@ body {
     opacity: 60%;
 }
 
+menu {
+    display: inline;
+}
+
 footer {
     font-family: "Bradley Hand", cursive;
     font-size: 18px
