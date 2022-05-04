@@ -39,8 +39,8 @@ body {
 }
 
 #companyLinks li {
-    display: inline;
     
+    float:left;
 }
 
 #companyLinks menu {
