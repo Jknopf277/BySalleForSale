@@ -38,7 +38,10 @@ body {
 
 li {
     display: inline;
-    text-decoration:none;
+}
+
+a {
+    text-decoration: none;
 }
 
 footer {
