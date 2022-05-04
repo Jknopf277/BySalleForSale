@@ -48,7 +48,7 @@ li {
     width: 100%;
 }
 
-a {
+#companyLinks a {
     text-decoration: none;
     padding:0 30px;
 }
