@@ -44,6 +44,11 @@ a {
     text-decoration: none;
 }
 
+a:hover {
+    color: #7461A2;
+    font-weight: 150;
+}
+
 footer {
     font-family: "Bradley Hand", cursive;
     font-size: 12px
