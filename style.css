@@ -13,6 +13,9 @@ h1 {
 
 p {
     font-family: Mallow, "Bradley Hand", cursive;
+    font-size: 36px;
+    text-align: center;
+    color: 080302;
 }
 
 body {
@@ -26,7 +29,7 @@ body {
 }
 
 .pictures {
-    
+    border-radius: 8px;
 }
 
 #buyable:hover {
@@ -35,7 +38,7 @@ body {
 
 .footer {
     font-family: "Bradley Hand", cursive;
-    font-size: 22px
+    font-size: 18px
     position: absolute;
     padding-bottom: 10px;
     padding-top: 10px;
