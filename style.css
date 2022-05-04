@@ -51,6 +51,8 @@ li {
 #companyLinks a {
     text-decoration: none;
     padding:0 30px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 a:hover {
