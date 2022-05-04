@@ -29,7 +29,7 @@ body {
 }
 
 .pictures {
-    border-radius: 50px;
+    border-radius: 8px;
 }
 
 #buyable:hover {
@@ -38,6 +38,11 @@ body {
 
 li {
     display: inline;
+    
+}
+
+#companyLinks {
+    text-align:center;
 }
 
 a {
@@ -51,7 +56,7 @@ a:hover {
 
 footer {
     font-family: "Bradley Hand", cursive;
-    font-size: 12px
+    font-size: 18px
     position: absolute;
     padding-bottom: 10px;
     padding-top: 10px;
