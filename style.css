@@ -38,21 +38,23 @@ body {
     opacity: 60%;
 }
 
-li {
+#companyLinks li {
     display: inline;
     
 }
 
 #companyLinks menu {
     text-align:center;
-    width: 100%;
+    width: 750px;
+    margin:auto;
 }
 
 #companyLinks a {
+    display:block;
     text-decoration: none;
+    text-align:center;
     padding:0 30px;
-    margin-left: auto;
-    margin-right: auto;
+    width:150px;
 }
 
 a:hover {
